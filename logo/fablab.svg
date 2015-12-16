@@ -61,7 +61,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="183.31271"
+     inkscape:cx="116.22652"
      inkscape:cy="-111.84855"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,7 +116,7 @@
     <g
        id="g4407-2"
        transform="translate(6018.9778,-818.7097)"
-       inkscape:export-filename="./fablab-full.png"
+       inkscape:export-filename="./export/fablab-text-600.png"
        inkscape:export-xdpi="183.20511"
        inkscape:export-ydpi="183.20511">
       <text
