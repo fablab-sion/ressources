@@ -4,11 +4,15 @@ Ce dossier contient le logo du FabLab au format vectoriel.
 
 ## Utilisation du logo
 
-Pour utiliser le logo, le lien suivant peut être utilisé:
+Pour utiliser le logo, les liens suivants peuvent être utilisé:
 
-<img src="https://cdn.rawgit.com/fablab-sion/ressources/1fe6432aaa84ad0b0fd6286ca424c17a25bac1ab/logo/export/fablab-600.png" alt="FabLab full" height="200">
+<img src="https://cdn.rawgit.com/fablab-sion/ressources/94591e0e1aff9f8a31e0a24edd4cc5277db4d477/logo/export/fablab-full-600.png" alt="FabLab full" height="200">
 
-`https://cdn.rawgit.com/fablab-sion/ressources/1fe6432aaa84ad0b0fd6286ca424c17a25bac1ab/logo/export/fablab-600.png`
+`https://cdn.rawgit.com/fablab-sion/ressources/94591e0e1aff9f8a31e0a24edd4cc5277db4d477/logo/export/fablab-full-600.png`
+
+<img src="https://cdn.rawgit.com/fablab-sion/ressources/94591e0e1aff9f8a31e0a24edd4cc5277db4d477/logo/export/fablab-logo-600.png" alt="FabLab logo" height="200">
+
+`https://cdn.rawgit.com/fablab-sion/ressources/94591e0e1aff9f8a31e0a24edd4cc5277db4d477/logo/export/fablab-logo-600.png`
 
 ## Informations sur le logo
 
